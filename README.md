@@ -1,3 +1,3 @@
 # Bootstrap-III
 
-Site build with Bootstrap libreray.
+Site build with Bootstrap library.
